@@ -77,8 +77,8 @@ class PlayState extends MusicBeatState
 		['Nice', 0.7], //69%
 		['Normal', 0.8], //From 70% to 79%
 		['Pretty good', 0.9], //From 80% to 89%
-		['Sick!', 1], //From 90% to 99%
-		['Perfect!!', 1] //The value on this one isn't used actually, since Perfect is always "1"
+		['Muck', 1], //From 90% to 99%
+		['Mokey', 1] //The value on this one isn't used actually, since Perfect is always "1"
 	];
 	
 	#if (haxe >= "4.0.0")
