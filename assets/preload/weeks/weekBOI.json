@@ -1,0 +1,20 @@
+{
+	"songs": [
+		["Boy", "mokey", [63, 107, 196]]
+	],
+
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekBackground": "weekboiPICTURE",
+
+	"storyName": "OH BOY E KRIMAH DIZ IS HALLOWIN DA VIRUZ MOMY AA",
+	"weekBefore": "week6",
+	"weekName": "Week BOI",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}
