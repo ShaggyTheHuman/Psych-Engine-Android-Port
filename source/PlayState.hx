@@ -1037,12 +1037,12 @@ class PlayState extends MusicBeatState
 					if(daSong == 'roses') FlxG.sound.play(Paths.sound('ANGRY'));
 					schoolIntro(doof);
 					
-				case 'boy'
-				        startVideo('mokeycutscene')
-				
-				case 'ah-hyuck'
-				        startVideo('groobycutsceneSUS')
-				
+				case 'boy':
+                        videoIntro('mokeycutscene')
+                        
+                case 'ah-hyuck':
+                        videoIntro('groobycutsceneSUS')
+                        
 				default:
 					if (dialogueJson == null)
 						startCountdown();
